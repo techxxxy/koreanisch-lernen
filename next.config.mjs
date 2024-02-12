@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
-};
-
-export default nextConfig;
+    basePath: "/koreanisch-lernen",
+    output: "export",  // <=== enables static exports
+    reactStrictMode: true,
+  };
+  
+  module.exports = nextConfig;
