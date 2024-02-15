@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/koreanisch-lernen/vercel.svg"
+              src="/nextjs-boilerplate-on-pages/vercel.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
               width={100}
@@ -31,7 +31,7 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/koreanisch-lernen/next.svg"
+          src="/nextjs-boilerplate-on-pages/next.svg"
           alt="Next.js Logo"
           width={180}
           height={37}
