@@ -7,5 +7,5 @@ You might encounter a common error while attempting to deploy a Next.js boilerpl
 Gregrickaby's repository is a perfect example for the deployment. Follow its guidelines.
 (https://github.com/gregrickaby/nextjs-github-pages)
 
-![Error Message](screenshots/deployError.png | width=100)
+![Error Message](screenshots/deployError.png)
 
